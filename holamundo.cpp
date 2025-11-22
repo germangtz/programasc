@@ -7,6 +7,8 @@ int main(){
     cout<<"Ejemplo"<<endl;
     /// ESTE ES PARTE DE LA RAMA TALLER
     cout <<"Taller"<<endl;
+    int x=100;
+    cout << "Valor de x: " << x<< endl;
 
     return 0;
 }
